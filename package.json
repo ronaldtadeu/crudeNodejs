@@ -1,0 +1,15 @@
+{
+  "name": "apicrud",
+  "version": "1.0.0",
+  "description": "um simples programa de CRUD",
+  "main": "api/cliente.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app/cliente.js"
+  },
+  "author": "Ronald Tadeu Alves Pinto Filho",
+  "license": "ISC"
+}
